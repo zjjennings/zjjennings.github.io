@@ -2,13 +2,11 @@
 layout: page
 title: MSDS 6306 Midterm Project
 description: Classifying Attrition Using KNN and Naive Bayes Classifiers
-img: assets/img/12.jpg
+img: assets/img/Attrition.jpeg
 importance: 1
 category: work
 related_publications: true
 ---
-
-<!DOCTYPE html>
 
 <html>
 
