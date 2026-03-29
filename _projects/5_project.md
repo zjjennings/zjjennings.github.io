@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
-category: fun
+title: Undergrad Tableau Project
+description: Analyzing Texas Government Salaries
+img: assets/img/salary.jpg
+redirect: https://public.tableau.com/app/profile/zachary.jennings/viz/zjenni3Final/Dashboard1
+importance: 2
+category: work
 ---
 
 Every project has a beautiful feature showcase page.
