@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "A growing collection of my cool projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -456,11 +456,6 @@ ninja.data = [{
           description: "another without an image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-undergrad-tableau-project",
-          title: 'Undergrad Tableau Project',
-          description: "Analyzing Texas Government Salaries",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
             },},{id: "projects-project-6",
           title: 'project 6',
           description: "a project with no image",
@@ -476,6 +471,11 @@ ninja.data = [{
           description: "Classifying Attrition Using KNN and Naive Bayes Classifiers",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Midterm-Code/";
+            },},{id: "projects-undergrad-tableau-project",
+          title: 'Undergrad Tableau Project',
+          description: "Analyzing Texas Government Salaries",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Tableau_Project/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
@@ -498,7 +498,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
+          window.open("mailto:%7A%6A%6A%65%6E%6E%69%6E%67%73@%73%6D%75.%65%64%75", "_blank");
         },
       },{
         id: 'social-inspire',
