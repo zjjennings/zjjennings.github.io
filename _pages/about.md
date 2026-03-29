@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: A website dedicated to my data science journey!
 
 profile:
   align: right
@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Aledo, Texas 76008</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -28,5 +28,3 @@ latest_posts:
 Hi! I'm Zachary.  I grew up in Kansas, moved around the country, and now I live in the DFW area.  I'm excited to learn more about Data Science as I pursue my MSDS at SMU. Go Mustangs!!
 
 I started learning more about Data Science after graduating with a BS in Information Systems and Decision Sciences and a BS in Business Analytics from LSU in 2025.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
